@@ -1,8 +1,5 @@
 ## ahmeng 👋
 
-<!--
-**ahmeng/ahmeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---＞
 - 👋 Hi, I’m Ahmeng 你好, 我是阿蒙
 - 👀 喜欢音乐、诗歌、视频、泡妞和打球
 - 🌱 正在学HTML和Python/Sagemath
